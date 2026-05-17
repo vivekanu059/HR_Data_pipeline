@@ -1,0 +1,24 @@
+[
+    {
+        "event_id": "5a31b4cc-cd4b-49a9-9b68-9c883ae909fe",
+        "timestamp": "2025-05-05T00:00:00",
+        "emp_id": 55333,
+        "event_type": "PROMOTION",
+        "new_salary": 122188,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "9ef2b93e-30ac-4d7b-a2f9-63a33810ae66",
+        "timestamp": "2025-05-05T00:00:00",
+        "emp_id": 70284,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "b88ec318-c16d-43ed-ad81-f8bd402913ec",
+        "timestamp": "2025-05-05T00:00:00",
+        "emp_id": 26772,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    }
+]

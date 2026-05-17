@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "67f5ae02-af5b-4f47-8eae-71cfce000af0",
+        "timestamp": "2025-12-19T00:00:00",
+        "emp_id": 99943,
+        "event_type": "PROMOTION",
+        "new_salary": 109054,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "7bf7e1d3-6a66-4fce-b089-fc6d2877f5d9",
+        "timestamp": "2025-12-19T00:00:00",
+        "emp_id": 38985,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 38985,
+            "first_name": "Shawn",
+            "last_name": "Barker",
+            "department": "Finance",
+            "role": "Analyst",
+            "salary": 139018,
+            "hire_date": "2025-12-19",
+            "status": "Active"
+        }
+    }
+]

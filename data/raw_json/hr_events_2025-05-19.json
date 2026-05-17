@@ -1,0 +1,23 @@
+[
+    {
+        "event_id": "a6348e78-4d5c-45c7-b379-cb1ee8cda0cc",
+        "timestamp": "2025-05-19T00:00:00",
+        "emp_id": 70678,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "0b9bd934-23c8-4d30-9dde-7969688613db",
+        "timestamp": "2025-05-19T00:00:00",
+        "emp_id": 73563,
+        "event_type": "PROMOTION",
+        "new_salary": 84081,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "fef518a6-4dea-4645-8986-bbebf23e323d",
+        "timestamp": "2025-05-19T00:00:00",
+        "emp_id": 36421,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    }
+]

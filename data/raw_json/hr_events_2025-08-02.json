@@ -1,0 +1,9 @@
+[
+    {
+        "event_id": "cab4923b-f448-4385-8de7-ad6c949077c2",
+        "timestamp": "2025-08-02T00:00:00",
+        "emp_id": 36002,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    }
+]

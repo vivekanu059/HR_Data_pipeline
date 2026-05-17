@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "7118e364-7709-4749-927e-ecfaa79ac9aa",
+        "timestamp": "2025-01-16T00:00:00",
+        "emp_id": 12097,
+        "event_type": "PROMOTION",
+        "new_salary": 91618,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "82dc4c8e-36b5-429a-acf5-e81e71316269",
+        "timestamp": "2025-01-16T00:00:00",
+        "emp_id": 47795,
+        "event_type": "PROMOTION",
+        "new_salary": 152468,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "f5b78cc7-e6b3-4944-8b32-3e357922bac2",
+        "timestamp": "2025-01-16T00:00:00",
+        "emp_id": 6630,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    }
+]

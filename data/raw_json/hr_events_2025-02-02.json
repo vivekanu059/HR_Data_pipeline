@@ -1,0 +1,10 @@
+[
+    {
+        "event_id": "9f4c3b79-fb10-487f-a0ac-3703eb67146a",
+        "timestamp": "2025-02-02T00:00:00",
+        "emp_id": 7685,
+        "event_type": "PROMOTION",
+        "new_salary": 112614,
+        "new_role": "Analyst"
+    }
+]

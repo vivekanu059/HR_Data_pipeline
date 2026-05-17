@@ -1,0 +1,41 @@
+[
+    {
+        "event_id": "6ba25efe-311c-4eb6-a095-eef68dedf9fb",
+        "timestamp": "2025-01-13T00:00:00",
+        "emp_id": 99943,
+        "event_type": "PROMOTION",
+        "new_salary": 90815,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "ad64b56c-610f-4a3f-b0bb-ac67aa38d0a1",
+        "timestamp": "2025-01-13T00:00:00",
+        "emp_id": 55444,
+        "event_type": "PROMOTION",
+        "new_salary": 67670,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "9d9262af-2c8d-4e44-a71e-43a6bf85bf0e",
+        "timestamp": "2025-01-13T00:00:00",
+        "emp_id": 55519,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    },
+    {
+        "event_id": "35ce8841-4973-4d6c-8dca-bfb7001a9a8b",
+        "timestamp": "2025-01-13T00:00:00",
+        "emp_id": 74593,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 74593,
+            "first_name": "Kevin",
+            "last_name": "Kelley",
+            "department": "Sales",
+            "role": "Manager",
+            "salary": 77102,
+            "hire_date": "2025-01-13",
+            "status": "Active"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "7f53a88e-4efc-4248-a10b-1a477faeb748",
+        "timestamp": "2025-12-29T00:00:00",
+        "emp_id": 49441,
+        "event_type": "PROMOTION",
+        "new_salary": 86672,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "3713b466-3da0-4476-b778-c676750d112e",
+        "timestamp": "2025-12-29T00:00:00",
+        "emp_id": 3037,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 3037,
+            "first_name": "Christopher",
+            "last_name": "Long",
+            "department": "Sales",
+            "role": "Manager",
+            "salary": 142920,
+            "hire_date": "2025-12-29",
+            "status": "Active"
+        }
+    }
+]

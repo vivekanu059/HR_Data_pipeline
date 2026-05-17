@@ -1,0 +1,15 @@
+[
+    {
+        "event_id": "aac93316-86e5-4753-bc93-f6cc97d7a560",
+        "timestamp": "2025-06-30T00:00:00",
+        "emp_id": 26772,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "652ffb49-3873-457f-8ba0-78e84ef492c1",
+        "timestamp": "2025-06-30T00:00:00",
+        "emp_id": 55333,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Finance"
+    }
+]

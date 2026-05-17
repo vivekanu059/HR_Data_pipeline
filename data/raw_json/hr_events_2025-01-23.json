@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "76ecbdd6-8498-4113-b227-462cf53d4330",
+        "timestamp": "2025-01-23T00:00:00",
+        "emp_id": 70678,
+        "event_type": "PROMOTION",
+        "new_salary": 63105,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "cd29a36f-2222-42e1-b4da-aebf1f115b76",
+        "timestamp": "2025-01-23T00:00:00",
+        "emp_id": 6582,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 6582,
+            "first_name": "Angela",
+            "last_name": "Lowery",
+            "department": "Engineering",
+            "role": "Manager",
+            "salary": 101110,
+            "hire_date": "2025-01-23",
+            "status": "Active"
+        }
+    }
+]

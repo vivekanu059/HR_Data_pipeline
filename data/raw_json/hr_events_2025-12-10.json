@@ -1,0 +1,17 @@
+[
+    {
+        "event_id": "a8a2b7ad-2bd3-4dcd-a779-468594a53fde",
+        "timestamp": "2025-12-10T00:00:00",
+        "emp_id": 88259,
+        "event_type": "PROMOTION",
+        "new_salary": 177898,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "9aea622f-e6e9-47ca-b87b-63849fddde2e",
+        "timestamp": "2025-12-10T00:00:00",
+        "emp_id": 3445,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    }
+]

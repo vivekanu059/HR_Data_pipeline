@@ -1,0 +1,33 @@
+[
+    {
+        "event_id": "17e8392a-55ce-45db-9e87-e04ca2086977",
+        "timestamp": "2025-01-18T00:00:00",
+        "emp_id": 12224,
+        "event_type": "PROMOTION",
+        "new_salary": 130737,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "3c20592f-c04a-46c4-b3b6-3fe1d1843324",
+        "timestamp": "2025-01-18T00:00:00",
+        "emp_id": 7685,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "3eae0032-0bd4-4990-8640-be0f25b8fd4b",
+        "timestamp": "2025-01-18T00:00:00",
+        "emp_id": 88184,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 88184,
+            "first_name": "Lance",
+            "last_name": "Drake",
+            "department": "Engineering",
+            "role": "Analyst",
+            "salary": 134523,
+            "hire_date": "2025-01-18",
+            "status": "Active"
+        }
+    }
+]

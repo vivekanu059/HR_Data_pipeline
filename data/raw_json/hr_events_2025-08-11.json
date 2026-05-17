@@ -1,0 +1,17 @@
+[
+    {
+        "event_id": "0d67d38e-990f-4c5b-adcc-3daf569f3ab3",
+        "timestamp": "2025-08-11T00:00:00",
+        "emp_id": 70284,
+        "event_type": "PROMOTION",
+        "new_salary": 133774,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "55ab946d-a5b5-4dc2-a181-c85eca0ac6ac",
+        "timestamp": "2025-08-11T00:00:00",
+        "emp_id": 92124,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Finance"
+    }
+]

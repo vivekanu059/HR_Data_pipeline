@@ -1,0 +1,22 @@
+[
+    {
+        "event_id": "d5bcb8d0-4094-4ded-abeb-ac31d4f8fd72",
+        "timestamp": "2025-02-06T00:00:00",
+        "emp_id": 35093,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "bfc00dc8-04f6-4d86-b866-076514f7ce8d",
+        "timestamp": "2025-02-06T00:00:00",
+        "emp_id": 32591,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "f3b1025b-fff9-4585-8d55-7b618a175dfe",
+        "timestamp": "2025-02-06T00:00:00",
+        "emp_id": 99458,
+        "event_type": "PROMOTION",
+        "new_salary": 138232,
+        "new_role": "Manager"
+    }
+]

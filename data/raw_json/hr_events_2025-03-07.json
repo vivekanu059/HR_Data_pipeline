@@ -1,0 +1,38 @@
+[
+    {
+        "event_id": "f0e98b3b-40a2-4c60-8d27-0659f72ada9b",
+        "timestamp": "2025-03-07T00:00:00",
+        "emp_id": 90198,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "d2762bdc-1d34-408e-ba4c-75d4dc99e04c",
+        "timestamp": "2025-03-07T00:00:00",
+        "emp_id": 464,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "12f70c97-7de3-4a51-a694-c34310ba58e3",
+        "timestamp": "2025-03-07T00:00:00",
+        "emp_id": 7455,
+        "event_type": "PROMOTION",
+        "new_salary": 91429,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "f2f9e5fa-9016-4161-8fa7-01cd2631d00b",
+        "timestamp": "2025-03-07T00:00:00",
+        "emp_id": 75631,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 75631,
+            "first_name": "Crystal",
+            "last_name": "Brown",
+            "department": "Marketing",
+            "role": "Engineer",
+            "salary": 62169,
+            "hire_date": "2025-03-07",
+            "status": "Active"
+        }
+    }
+]

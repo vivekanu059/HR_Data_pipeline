@@ -1,0 +1,17 @@
+[
+    {
+        "event_id": "c63d04ee-541c-4a86-bba5-cd2fdea45c19",
+        "timestamp": "2025-05-31T00:00:00",
+        "emp_id": 56155,
+        "event_type": "PROMOTION",
+        "new_salary": 144916,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "989240ac-e689-43a9-89e4-8e8c25c61c45",
+        "timestamp": "2025-05-31T00:00:00",
+        "emp_id": 11836,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    }
+]

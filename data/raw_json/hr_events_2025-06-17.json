@@ -1,0 +1,32 @@
+[
+    {
+        "event_id": "79699ed2-ec48-4f55-afd3-80c42713582c",
+        "timestamp": "2025-06-17T00:00:00",
+        "emp_id": 70284,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    },
+    {
+        "event_id": "15da705c-d4ef-40aa-975a-81ec112fa612",
+        "timestamp": "2025-06-17T00:00:00",
+        "emp_id": 46898,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    },
+    {
+        "event_id": "8e6e5003-214f-4f12-8fd0-1cbd5f65c8ce",
+        "timestamp": "2025-06-17T00:00:00",
+        "emp_id": 12219,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 12219,
+            "first_name": "Ryan",
+            "last_name": "Garner",
+            "department": "Marketing",
+            "role": "Analyst",
+            "salary": 111888,
+            "hire_date": "2025-06-17",
+            "status": "Active"
+        }
+    }
+]

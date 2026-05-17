@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "a8f7ef5a-060e-4f5b-b911-84973a43b2ba",
+        "timestamp": "2025-01-04T00:00:00",
+        "emp_id": 88259,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "4774bc58-c5f8-4c16-b786-0b5011c58ef0",
+        "timestamp": "2025-01-04T00:00:00",
+        "emp_id": 25313,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 25313,
+            "first_name": "Raymond",
+            "last_name": "Ramirez",
+            "department": "Marketing",
+            "role": "Analyst",
+            "salary": 135948,
+            "hire_date": "2025-01-04",
+            "status": "Active"
+        }
+    }
+]

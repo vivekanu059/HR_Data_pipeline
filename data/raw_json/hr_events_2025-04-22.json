@@ -1,0 +1,17 @@
+[
+    {
+        "event_id": "697c3923-87fa-441a-be83-b91f25440fe0",
+        "timestamp": "2025-04-22T00:00:00",
+        "emp_id": 88039,
+        "event_type": "PROMOTION",
+        "new_salary": 135074,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "2e183554-cae2-4e66-ae8a-781390e0a95b",
+        "timestamp": "2025-04-22T00:00:00",
+        "emp_id": 86752,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    }
+]

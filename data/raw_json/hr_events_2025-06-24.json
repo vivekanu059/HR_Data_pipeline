@@ -1,0 +1,45 @@
+[
+    {
+        "event_id": "2e2fbf77-0769-49d6-8477-7442b18753e6",
+        "timestamp": "2025-06-24T00:00:00",
+        "emp_id": 83748,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "4f199ec0-c32d-4526-b3e4-110a45f50c52",
+        "timestamp": "2025-06-24T00:00:00",
+        "emp_id": 58115,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "01902620-59dc-4bd0-96fe-bfb9ebe9e207",
+        "timestamp": "2025-06-24T00:00:00",
+        "emp_id": 73563,
+        "event_type": "PROMOTION",
+        "new_salary": 93814,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "90fa6b57-24ac-4130-9eaf-528d2e709838",
+        "timestamp": "2025-06-24T00:00:00",
+        "emp_id": 79131,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "177d6e7e-07d9-44ce-b8c8-8faea2178f84",
+        "timestamp": "2025-06-24T00:00:00",
+        "emp_id": 86159,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 86159,
+            "first_name": "Richard",
+            "last_name": "Thomas",
+            "department": "Sales",
+            "role": "Analyst",
+            "salary": 134140,
+            "hire_date": "2025-06-24",
+            "status": "Active"
+        }
+    }
+]

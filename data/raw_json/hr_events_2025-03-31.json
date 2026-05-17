@@ -1,0 +1,15 @@
+[
+    {
+        "event_id": "dd30de89-22f2-45f2-a11b-868dbf0d073d",
+        "timestamp": "2025-03-31T00:00:00",
+        "emp_id": 75674,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "ca3dd859-c5ce-499c-86b8-265911df12d7",
+        "timestamp": "2025-03-31T00:00:00",
+        "emp_id": 59177,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    }
+]

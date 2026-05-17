@@ -1,0 +1,24 @@
+[
+    {
+        "event_id": "2fa0d842-bc55-400b-86a2-41af1d0af7f7",
+        "timestamp": "2025-11-12T00:00:00",
+        "emp_id": 21319,
+        "event_type": "PROMOTION",
+        "new_salary": 172646,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "e9ddebf5-6311-4aca-848a-f4407fc15858",
+        "timestamp": "2025-11-12T00:00:00",
+        "emp_id": 47795,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    },
+    {
+        "event_id": "c6641285-4303-4bc1-9e25-95b88fc9c86b",
+        "timestamp": "2025-11-12T00:00:00",
+        "emp_id": 79928,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    }
+]

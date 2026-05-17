@@ -1,0 +1,24 @@
+[
+    {
+        "event_id": "98e52499-218c-4e1c-9e37-4f7ac42cbc39",
+        "timestamp": "2025-08-26T00:00:00",
+        "emp_id": 31385,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "cf1d7d3a-9fee-4dff-8566-aa81b15e54f6",
+        "timestamp": "2025-08-26T00:00:00",
+        "emp_id": 49377,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 49377,
+            "first_name": "Eric",
+            "last_name": "White",
+            "department": "Finance",
+            "role": "Manager",
+            "salary": 66968,
+            "hire_date": "2025-08-26",
+            "status": "Active"
+        }
+    }
+]

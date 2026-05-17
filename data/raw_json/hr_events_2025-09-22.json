@@ -1,0 +1,9 @@
+[
+    {
+        "event_id": "49c10669-c6b3-4fe6-9c76-bdf66c5a6c93",
+        "timestamp": "2025-09-22T00:00:00",
+        "emp_id": 21319,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Finance"
+    }
+]

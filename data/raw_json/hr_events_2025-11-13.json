@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "ea9e5c8d-b1a8-471f-891b-90e99ca3fbb3",
+        "timestamp": "2025-11-13T00:00:00",
+        "emp_id": 34116,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 34116,
+            "first_name": "Jane",
+            "last_name": "Lewis",
+            "department": "Sales",
+            "role": "Director",
+            "salary": 54139,
+            "hire_date": "2025-11-13",
+            "status": "Active"
+        }
+    }
+]

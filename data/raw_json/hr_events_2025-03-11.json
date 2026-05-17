@@ -1,0 +1,34 @@
+[
+    {
+        "event_id": "3605bf54-a021-40ca-b531-968dc342bd2b",
+        "timestamp": "2025-03-11T00:00:00",
+        "emp_id": 72357,
+        "event_type": "PROMOTION",
+        "new_salary": 76103,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "2834e4c0-14c8-43b4-a911-d19243bfd931",
+        "timestamp": "2025-03-11T00:00:00",
+        "emp_id": 29871,
+        "event_type": "PROMOTION",
+        "new_salary": 98312,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "1337739e-8d4f-4d27-ac7f-0b793d67cde9",
+        "timestamp": "2025-03-11T00:00:00",
+        "emp_id": 2757,
+        "event_type": "PROMOTION",
+        "new_salary": 139707,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "735435ea-6894-4b8d-80af-5b3a2812859a",
+        "timestamp": "2025-03-11T00:00:00",
+        "emp_id": 19536,
+        "event_type": "PROMOTION",
+        "new_salary": 71259,
+        "new_role": "Analyst"
+    }
+]

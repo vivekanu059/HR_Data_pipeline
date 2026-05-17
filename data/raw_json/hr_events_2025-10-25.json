@@ -1,0 +1,21 @@
+[
+    {
+        "event_id": "7f072cb9-2fd3-40c0-b945-f2fd56cb1ab0",
+        "timestamp": "2025-10-25T00:00:00",
+        "emp_id": 29871,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "ec9f9c54-5e0a-42ab-bf5d-b163b12b6680",
+        "timestamp": "2025-10-25T00:00:00",
+        "emp_id": 77580,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "cd180a82-4447-4eab-84ef-4324cc1b4157",
+        "timestamp": "2025-10-25T00:00:00",
+        "emp_id": 51374,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    }
+]

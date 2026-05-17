@@ -1,0 +1,9 @@
+[
+    {
+        "event_id": "d0243d72-3748-467f-961d-33ba350843f0",
+        "timestamp": "2025-05-30T00:00:00",
+        "emp_id": 86752,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    }
+]

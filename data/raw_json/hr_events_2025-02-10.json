@@ -1,0 +1,33 @@
+[
+    {
+        "event_id": "9b749245-9b1b-4895-aaf4-3ab75e6fea07",
+        "timestamp": "2025-02-10T00:00:00",
+        "emp_id": 72063,
+        "event_type": "PROMOTION",
+        "new_salary": 150469,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "1d5206ab-b7e6-427c-bf78-0e3ff6b751f7",
+        "timestamp": "2025-02-10T00:00:00",
+        "emp_id": 75880,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "93676a02-4fdc-4e1b-adcb-8cb60692dc63",
+        "timestamp": "2025-02-10T00:00:00",
+        "emp_id": 21465,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 21465,
+            "first_name": "Tami",
+            "last_name": "Rodriguez",
+            "department": "HR",
+            "role": "Engineer",
+            "salary": 136895,
+            "hire_date": "2025-02-10",
+            "status": "Active"
+        }
+    }
+]

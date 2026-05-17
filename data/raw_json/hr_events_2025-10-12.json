@@ -1,0 +1,31 @@
+[
+    {
+        "event_id": "0b36e356-339b-47a8-8b1f-0d7b0977c513",
+        "timestamp": "2025-10-12T00:00:00",
+        "emp_id": 15129,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "0aba590e-e2c3-48aa-b310-7475ca862225",
+        "timestamp": "2025-10-12T00:00:00",
+        "emp_id": 99943,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Finance"
+    },
+    {
+        "event_id": "7930ba20-8b04-4f49-90be-73eefd372539",
+        "timestamp": "2025-10-12T00:00:00",
+        "emp_id": 41365,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 41365,
+            "first_name": "Sarah",
+            "last_name": "Robertson",
+            "department": "Sales",
+            "role": "Analyst",
+            "salary": 60210,
+            "hire_date": "2025-10-12",
+            "status": "Active"
+        }
+    }
+]

@@ -1,0 +1,9 @@
+[
+    {
+        "event_id": "d31edf1a-e9ff-4cae-81c8-ca8c2a1f955a",
+        "timestamp": "2025-05-10T00:00:00",
+        "emp_id": 72420,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    }
+]

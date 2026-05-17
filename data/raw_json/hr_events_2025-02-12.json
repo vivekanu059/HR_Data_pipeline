@@ -1,0 +1,9 @@
+[
+    {
+        "event_id": "32c5bd89-b70b-4420-b104-3785658b2523",
+        "timestamp": "2025-02-12T00:00:00",
+        "emp_id": 11226,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    }
+]

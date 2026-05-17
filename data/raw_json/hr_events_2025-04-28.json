@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "f1faf665-7115-43f3-92e8-9d1028711733",
+        "timestamp": "2025-04-28T00:00:00",
+        "emp_id": 46898,
+        "event_type": "PROMOTION",
+        "new_salary": 86258,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "4c955f6a-966b-4964-bcd6-bdca5876fd09",
+        "timestamp": "2025-04-28T00:00:00",
+        "emp_id": 25313,
+        "event_type": "PROMOTION",
+        "new_salary": 150053,
+        "new_role": "Analyst"
+    }
+]

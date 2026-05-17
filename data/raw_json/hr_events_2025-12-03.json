@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "5299e505-2976-4ab2-aa26-f7704ddb1b36",
+        "timestamp": "2025-12-03T00:00:00",
+        "emp_id": 7263,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 7263,
+            "first_name": "Marie",
+            "last_name": "Holmes",
+            "department": "Finance",
+            "role": "Manager",
+            "salary": 100231,
+            "hire_date": "2025-12-03",
+            "status": "Active"
+        }
+    }
+]

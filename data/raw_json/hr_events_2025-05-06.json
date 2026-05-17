@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "d69d42f1-ae4c-44ff-a8c0-1f05c478f6f1",
+        "timestamp": "2025-05-06T00:00:00",
+        "emp_id": 36421,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    },
+    {
+        "event_id": "c9e26074-4f16-49a0-8a17-991ea5769411",
+        "timestamp": "2025-05-06T00:00:00",
+        "emp_id": 17927,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 17927,
+            "first_name": "Courtney",
+            "last_name": "Berger",
+            "department": "Engineering",
+            "role": "Director",
+            "salary": 53203,
+            "hire_date": "2025-05-06",
+            "status": "Active"
+        }
+    }
+]

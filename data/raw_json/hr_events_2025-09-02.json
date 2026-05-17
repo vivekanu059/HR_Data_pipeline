@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "331f63fb-d11f-48c0-a97c-a4fff75d599f",
+        "timestamp": "2025-09-02T00:00:00",
+        "emp_id": 83227,
+        "event_type": "PROMOTION",
+        "new_salary": 83396,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "5f07c1a5-dfc6-40ce-bb07-fd31a4244f23",
+        "timestamp": "2025-09-02T00:00:00",
+        "emp_id": 79254,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 79254,
+            "first_name": "Devon",
+            "last_name": "Wright",
+            "department": "Finance",
+            "role": "Analyst",
+            "salary": 84412,
+            "hire_date": "2025-09-02",
+            "status": "Active"
+        }
+    }
+]

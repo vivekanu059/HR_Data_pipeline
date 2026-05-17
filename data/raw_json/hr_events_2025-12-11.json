@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "90494583-ec86-4890-97b0-0bdc566e3cbe",
+        "timestamp": "2025-12-11T00:00:00",
+        "emp_id": 34760,
+        "event_type": "PROMOTION",
+        "new_salary": 186495,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "07437c3b-dd20-43bf-9342-af080a8bb5b4",
+        "timestamp": "2025-12-11T00:00:00",
+        "emp_id": 68012,
+        "event_type": "PROMOTION",
+        "new_salary": 136335,
+        "new_role": "Director"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "c7e53bbb-dcb5-4c53-9b62-a8df493e904d",
+        "timestamp": "2025-10-13T00:00:00",
+        "emp_id": 33202,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 33202,
+            "first_name": "Benjamin",
+            "last_name": "Lucas",
+            "department": "Marketing",
+            "role": "Manager",
+            "salary": 136499,
+            "hire_date": "2025-10-13",
+            "status": "Active"
+        }
+    }
+]

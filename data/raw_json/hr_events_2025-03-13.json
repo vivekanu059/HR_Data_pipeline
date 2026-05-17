@@ -1,0 +1,33 @@
+[
+    {
+        "event_id": "743b65a2-dc0f-4fcf-b3f6-fe0d48603b32",
+        "timestamp": "2025-03-13T00:00:00",
+        "emp_id": 69822,
+        "event_type": "PROMOTION",
+        "new_salary": 131280,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "ec856f37-3bc1-4987-aff8-754d1238d630",
+        "timestamp": "2025-03-13T00:00:00",
+        "emp_id": 7455,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    },
+    {
+        "event_id": "32a447b2-ef04-457d-8dcc-c33aa9434aa0",
+        "timestamp": "2025-03-13T00:00:00",
+        "emp_id": 34675,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 34675,
+            "first_name": "Kristin",
+            "last_name": "Weber",
+            "department": "Marketing",
+            "role": "Engineer",
+            "salary": 89093,
+            "hire_date": "2025-03-13",
+            "status": "Active"
+        }
+    }
+]

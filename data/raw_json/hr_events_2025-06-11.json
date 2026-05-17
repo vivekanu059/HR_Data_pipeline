@@ -1,0 +1,10 @@
+[
+    {
+        "event_id": "533f5a72-b64f-454a-8c61-165495da75c1",
+        "timestamp": "2025-06-11T00:00:00",
+        "emp_id": 75631,
+        "event_type": "PROMOTION",
+        "new_salary": 71711,
+        "new_role": "Director"
+    }
+]

@@ -1,0 +1,23 @@
+[
+    {
+        "event_id": "9918ee46-1497-4658-b010-f7197e695d0d",
+        "timestamp": "2025-03-17T00:00:00",
+        "emp_id": 72357,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "bc0a6a5d-6e99-4e3e-a3b1-37fc0a3450fc",
+        "timestamp": "2025-03-17T00:00:00",
+        "emp_id": 21319,
+        "event_type": "PROMOTION",
+        "new_salary": 143728,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "069f14f1-4018-4c6e-9a8c-fa3c5283aac7",
+        "timestamp": "2025-03-17T00:00:00",
+        "emp_id": 86163,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    }
+]

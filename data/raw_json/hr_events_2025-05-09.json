@@ -1,0 +1,34 @@
+[
+    {
+        "event_id": "6a5e6920-bf5a-47e6-93a3-dd5a4b8c5bdc",
+        "timestamp": "2025-05-09T00:00:00",
+        "emp_id": 31385,
+        "event_type": "PROMOTION",
+        "new_salary": 156959,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "c958e75e-21d5-4971-b367-49b52cf6bf75",
+        "timestamp": "2025-05-09T00:00:00",
+        "emp_id": 45745,
+        "event_type": "PROMOTION",
+        "new_salary": 73031,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "d499da99-45c4-4a3e-a9da-484a80759f1f",
+        "timestamp": "2025-05-09T00:00:00",
+        "emp_id": 70701,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 70701,
+            "first_name": "Nancy",
+            "last_name": "Diaz",
+            "department": "HR",
+            "role": "Engineer",
+            "salary": 92283,
+            "hire_date": "2025-05-09",
+            "status": "Active"
+        }
+    }
+]

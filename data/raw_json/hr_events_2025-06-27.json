@@ -1,0 +1,17 @@
+[
+    {
+        "event_id": "98a21f1c-914d-4fae-b100-13a7c6deb2f0",
+        "timestamp": "2025-06-27T00:00:00",
+        "emp_id": 34760,
+        "event_type": "PROMOTION",
+        "new_salary": 147252,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "27d415b6-0d77-45a0-a222-b6a615bfbe97",
+        "timestamp": "2025-06-27T00:00:00",
+        "emp_id": 94098,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    }
+]

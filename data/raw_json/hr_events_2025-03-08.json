@@ -1,0 +1,42 @@
+[
+    {
+        "event_id": "3f897142-fe71-4b14-95ce-6a664dc82a1e",
+        "timestamp": "2025-03-08T00:00:00",
+        "emp_id": 30021,
+        "event_type": "PROMOTION",
+        "new_salary": 147549,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "6a8a616f-c3b2-40d0-8edd-dfcd1e52d770",
+        "timestamp": "2025-03-08T00:00:00",
+        "emp_id": 66542,
+        "event_type": "PROMOTION",
+        "new_salary": 153249,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "9e50aa42-ca6d-4da1-989b-c4da9b37a22b",
+        "timestamp": "2025-03-08T00:00:00",
+        "emp_id": 88039,
+        "event_type": "PROMOTION",
+        "new_salary": 123007,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "dc33e1f9-4c1f-45ab-b156-29eee893be3d",
+        "timestamp": "2025-03-08T00:00:00",
+        "emp_id": 29581,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 29581,
+            "first_name": "Kimberly",
+            "last_name": "James",
+            "department": "Sales",
+            "role": "Engineer",
+            "salary": 66666,
+            "hire_date": "2025-03-08",
+            "status": "Active"
+        }
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "23377bbc-fffe-47c8-b9fe-b99c31274148",
+        "timestamp": "2025-08-21T00:00:00",
+        "emp_id": 39651,
+        "event_type": "PROMOTION",
+        "new_salary": 94698,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "8a2e6a93-c558-4bb2-81f7-f3fb19e45c6a",
+        "timestamp": "2025-08-21T00:00:00",
+        "emp_id": 20308,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 20308,
+            "first_name": "Chris",
+            "last_name": "Richard",
+            "department": "Marketing",
+            "role": "Engineer",
+            "salary": 64355,
+            "hire_date": "2025-08-21",
+            "status": "Active"
+        }
+    }
+]

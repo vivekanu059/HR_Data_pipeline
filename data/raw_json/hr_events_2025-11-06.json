@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "20509c62-08e8-45d7-b02c-1821c8040fb7",
+        "timestamp": "2025-11-06T00:00:00",
+        "emp_id": 29256,
+        "event_type": "PROMOTION",
+        "new_salary": 130933,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "9136f1f8-f310-46dc-a202-bee65cb5e69c",
+        "timestamp": "2025-11-06T00:00:00",
+        "emp_id": 8812,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 8812,
+            "first_name": "Joel",
+            "last_name": "Brewer",
+            "department": "Finance",
+            "role": "Director",
+            "salary": 122296,
+            "hire_date": "2025-11-06",
+            "status": "Active"
+        }
+    }
+]

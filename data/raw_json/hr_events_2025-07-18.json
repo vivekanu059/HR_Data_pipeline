@@ -1,0 +1,16 @@
+[
+    {
+        "event_id": "9050f7ef-c123-4c91-b6c5-a0dc7e7e7419",
+        "timestamp": "2025-07-18T00:00:00",
+        "emp_id": 79131,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Finance"
+    },
+    {
+        "event_id": "ae5ec365-72eb-4474-9458-054ec2874f06",
+        "timestamp": "2025-07-18T00:00:00",
+        "emp_id": 88259,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    }
+]

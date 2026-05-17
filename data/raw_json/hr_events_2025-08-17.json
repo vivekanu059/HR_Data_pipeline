@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "6c645c15-aba3-41cb-a561-e1e917ec889c",
+        "timestamp": "2025-08-17T00:00:00",
+        "emp_id": 96832,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 96832,
+            "first_name": "Wendy",
+            "last_name": "Gaines",
+            "department": "Engineering",
+            "role": "Manager",
+            "salary": 56383,
+            "hire_date": "2025-08-17",
+            "status": "Active"
+        }
+    }
+]

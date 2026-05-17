@@ -1,0 +1,48 @@
+[
+    {
+        "event_id": "ecab3301-bc8f-4d29-adea-94930658663a",
+        "timestamp": "2025-01-01T00:00:00",
+        "emp_id": 8834,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "696608aa-ee49-4329-884a-7b28550a1b46",
+        "timestamp": "2025-01-01T00:00:00",
+        "emp_id": 14371,
+        "event_type": "PROMOTION",
+        "new_salary": 93842,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "bc2cbb0d-dd33-4cc7-ab7f-089acd5f4822",
+        "timestamp": "2025-01-01T00:00:00",
+        "emp_id": 942,
+        "event_type": "PROMOTION",
+        "new_salary": 79732,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "28c13091-444d-410b-bf87-e362cf8d446a",
+        "timestamp": "2025-01-01T00:00:00",
+        "emp_id": 37353,
+        "event_type": "PROMOTION",
+        "new_salary": 63376,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "33173470-38f1-4a81-b87f-2425dbccc477",
+        "timestamp": "2025-01-01T00:00:00",
+        "emp_id": 91917,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 91917,
+            "first_name": "Daniel",
+            "last_name": "Brennan",
+            "department": "Finance",
+            "role": "Engineer",
+            "salary": 63356,
+            "hire_date": "2025-01-01",
+            "status": "Active"
+        }
+    }
+]

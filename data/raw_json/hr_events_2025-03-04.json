@@ -1,0 +1,30 @@
+[
+    {
+        "event_id": "31b1b099-d527-41e7-99bc-143efb02bebb",
+        "timestamp": "2025-03-04T00:00:00",
+        "emp_id": 12280,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "2defe193-5c62-43a2-ba3c-563e4bd6cee6",
+        "timestamp": "2025-03-04T00:00:00",
+        "emp_id": 56155,
+        "event_type": "PROMOTION",
+        "new_salary": 106389,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "88bd13d1-b540-430e-839f-3a254d6168bd",
+        "timestamp": "2025-03-04T00:00:00",
+        "emp_id": 30021,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    },
+    {
+        "event_id": "f96b648a-0ba6-4ab9-8639-447b2067bdac",
+        "timestamp": "2025-03-04T00:00:00",
+        "emp_id": 92124,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    }
+]

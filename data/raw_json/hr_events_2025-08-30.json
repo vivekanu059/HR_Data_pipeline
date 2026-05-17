@@ -1,0 +1,24 @@
+[
+    {
+        "event_id": "bfa016c2-c09c-4506-88f1-096d9c4ffb46",
+        "timestamp": "2025-08-30T00:00:00",
+        "emp_id": 36002,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "78116802-c8cc-4cfe-8f01-f944f7315749",
+        "timestamp": "2025-08-30T00:00:00",
+        "emp_id": 58841,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 58841,
+            "first_name": "Jesus",
+            "last_name": "Allen",
+            "department": "Marketing",
+            "role": "Director",
+            "salary": 67109,
+            "hire_date": "2025-08-30",
+            "status": "Active"
+        }
+    }
+]

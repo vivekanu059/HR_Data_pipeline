@@ -1,0 +1,16 @@
+[
+    {
+        "event_id": "8a4a0e2d-f22b-4b98-b24c-c64fbe3e6e57",
+        "timestamp": "2025-05-21T00:00:00",
+        "emp_id": 54987,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    },
+    {
+        "event_id": "ba0266ef-be05-4787-965b-efdf6b4be411",
+        "timestamp": "2025-05-21T00:00:00",
+        "emp_id": 6582,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Finance"
+    }
+]

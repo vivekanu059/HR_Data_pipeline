@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "04287378-bf50-43f4-80ef-39355f90bed6",
+        "timestamp": "2025-10-08T00:00:00",
+        "emp_id": 34760,
+        "event_type": "PROMOTION",
+        "new_salary": 172565,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "1a89b71e-a0d5-42c8-a837-fe68bba205ca",
+        "timestamp": "2025-10-08T00:00:00",
+        "emp_id": 46805,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 46805,
+            "first_name": "Kristina",
+            "last_name": "Cooper",
+            "department": "Engineering",
+            "role": "Manager",
+            "salary": 143965,
+            "hire_date": "2025-10-08",
+            "status": "Active"
+        }
+    }
+]

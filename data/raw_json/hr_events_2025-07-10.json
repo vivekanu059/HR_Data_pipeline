@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "2bffe17b-5324-41fc-b758-dce20556daea",
+        "timestamp": "2025-07-10T00:00:00",
+        "emp_id": 21319,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "d8302081-6fcc-47dd-968f-ae125ca260c9",
+        "timestamp": "2025-07-10T00:00:00",
+        "emp_id": 81018,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 81018,
+            "first_name": "Steve",
+            "last_name": "Norris",
+            "department": "HR",
+            "role": "Analyst",
+            "salary": 103161,
+            "hire_date": "2025-07-10",
+            "status": "Active"
+        }
+    }
+]

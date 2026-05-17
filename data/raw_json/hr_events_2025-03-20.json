@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "2e76128b-4735-44f9-aa83-bf007135f221",
+        "timestamp": "2025-03-20T00:00:00",
+        "emp_id": 99125,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 99125,
+            "first_name": "Gregory",
+            "last_name": "Stone",
+            "department": "Engineering",
+            "role": "Director",
+            "salary": 114700,
+            "hire_date": "2025-03-20",
+            "status": "Active"
+        }
+    }
+]

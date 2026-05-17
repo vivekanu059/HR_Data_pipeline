@@ -1,0 +1,33 @@
+[
+    {
+        "event_id": "5e2ad32d-31ab-4b56-95c9-fdc7e76adca9",
+        "timestamp": "2025-08-31T00:00:00",
+        "emp_id": 55333,
+        "event_type": "PROMOTION",
+        "new_salary": 167377,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "fc043f08-9207-4158-b277-1f63ada58417",
+        "timestamp": "2025-08-31T00:00:00",
+        "emp_id": 72420,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Finance"
+    },
+    {
+        "event_id": "6b2d5b09-8707-4ad4-80be-7e3561c2645a",
+        "timestamp": "2025-08-31T00:00:00",
+        "emp_id": 57749,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 57749,
+            "first_name": "Steven",
+            "last_name": "Campbell",
+            "department": "Sales",
+            "role": "Analyst",
+            "salary": 130143,
+            "hire_date": "2025-08-31",
+            "status": "Active"
+        }
+    }
+]

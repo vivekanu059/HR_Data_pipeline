@@ -1,0 +1,10 @@
+[
+    {
+        "event_id": "89456f27-d7fa-4d8d-bb2c-a025adf4e62d",
+        "timestamp": "2025-01-07T00:00:00",
+        "emp_id": 26685,
+        "event_type": "PROMOTION",
+        "new_salary": 98871,
+        "new_role": "Manager"
+    }
+]

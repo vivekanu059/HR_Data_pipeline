@@ -1,0 +1,16 @@
+[
+    {
+        "event_id": "b61e5fdb-1a43-4206-af2d-dcc48df661da",
+        "timestamp": "2025-09-03T00:00:00",
+        "emp_id": 79131,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    },
+    {
+        "event_id": "1feae1e0-d9e6-44b3-8412-a335d88c656d",
+        "timestamp": "2025-09-03T00:00:00",
+        "emp_id": 25313,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    }
+]

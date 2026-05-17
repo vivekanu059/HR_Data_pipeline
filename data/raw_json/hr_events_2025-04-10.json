@@ -1,0 +1,32 @@
+[
+    {
+        "event_id": "a6eab79e-d21c-42f8-8ada-4f80a9e782d4",
+        "timestamp": "2025-04-10T00:00:00",
+        "emp_id": 38469,
+        "event_type": "PROMOTION",
+        "new_salary": 112320,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "f6febc0e-7ecd-4baf-a6f0-5fcffb16e5db",
+        "timestamp": "2025-04-10T00:00:00",
+        "emp_id": 64032,
+        "event_type": "PROMOTION",
+        "new_salary": 110310,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "f72169bb-8096-4718-a051-acef097a1e10",
+        "timestamp": "2025-04-10T00:00:00",
+        "emp_id": 55461,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "19b17e80-dea4-4e17-94fd-9ad39716108e",
+        "timestamp": "2025-04-10T00:00:00",
+        "emp_id": 2757,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    }
+]

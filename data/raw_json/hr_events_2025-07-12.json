@@ -1,0 +1,23 @@
+[
+    {
+        "event_id": "6550f74a-1422-473f-8622-68d16683e107",
+        "timestamp": "2025-07-12T00:00:00",
+        "emp_id": 55333,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    },
+    {
+        "event_id": "56ea57b3-beed-40b6-8f6e-274bdedab027",
+        "timestamp": "2025-07-12T00:00:00",
+        "emp_id": 34760,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Finance"
+    },
+    {
+        "event_id": "2b0abedd-c774-44cb-9543-fc3c38b8f24e",
+        "timestamp": "2025-07-12T00:00:00",
+        "emp_id": 19536,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    }
+]

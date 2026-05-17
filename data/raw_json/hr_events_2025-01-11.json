@@ -1,0 +1,44 @@
+[
+    {
+        "event_id": "b572f3d0-0b5c-4a6a-8135-7e8c30a900ad",
+        "timestamp": "2025-01-11T00:00:00",
+        "emp_id": 95673,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "ecf27e76-8519-4ff4-806e-d6e36fa17735",
+        "timestamp": "2025-01-11T00:00:00",
+        "emp_id": 24957,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "b82c9074-afd5-4ea5-89d7-fd6cce777f00",
+        "timestamp": "2025-01-11T00:00:00",
+        "emp_id": 29256,
+        "event_type": "PROMOTION",
+        "new_salary": 91151,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "abae4f43-bcae-4081-bdf0-70aaf0b5156b",
+        "timestamp": "2025-01-11T00:00:00",
+        "emp_id": 56155,
+        "event_type": "PROMOTION",
+        "new_salary": 91840,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "11e9cdaa-6e69-41a3-9d3d-9e563270e4fa",
+        "timestamp": "2025-01-11T00:00:00",
+        "emp_id": 47576,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    },
+    {
+        "event_id": "5487fd4f-ebb7-4385-aa0b-7b14f2e9702d",
+        "timestamp": "2025-01-11T00:00:00",
+        "emp_id": 53269,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    }
+]

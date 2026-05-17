@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "7e7838c9-ca55-438b-bc9a-be10238d6f44",
+        "timestamp": "2025-11-27T00:00:00",
+        "emp_id": 34760,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    },
+    {
+        "event_id": "8d38bbd8-fba6-4bf7-8dbc-c65377a7e8b7",
+        "timestamp": "2025-11-27T00:00:00",
+        "emp_id": 3445,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 3445,
+            "first_name": "Michael",
+            "last_name": "Armstrong",
+            "department": "HR",
+            "role": "Manager",
+            "salary": 112432,
+            "hire_date": "2025-11-27",
+            "status": "Active"
+        }
+    }
+]

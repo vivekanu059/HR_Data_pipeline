@@ -1,0 +1,10 @@
+[
+    {
+        "event_id": "add702c9-2747-493c-9ae7-7eab084a6780",
+        "timestamp": "2025-11-08T00:00:00",
+        "emp_id": 88259,
+        "event_type": "PROMOTION",
+        "new_salary": 165681,
+        "new_role": "Engineer"
+    }
+]

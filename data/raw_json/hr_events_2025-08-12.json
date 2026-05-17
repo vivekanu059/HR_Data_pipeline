@@ -1,0 +1,16 @@
+[
+    {
+        "event_id": "8ed6ad5e-1831-4aa3-9466-9d1910df9974",
+        "timestamp": "2025-08-12T00:00:00",
+        "emp_id": 34760,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    },
+    {
+        "event_id": "4082cbb9-48bd-4b3e-a2f5-df2badaa44ca",
+        "timestamp": "2025-08-12T00:00:00",
+        "emp_id": 70701,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    }
+]

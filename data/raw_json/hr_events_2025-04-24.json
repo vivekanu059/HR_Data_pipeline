@@ -1,0 +1,9 @@
+[
+    {
+        "event_id": "9549c931-e9af-499d-bf67-1eec3da70577",
+        "timestamp": "2025-04-24T00:00:00",
+        "emp_id": 47795,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    }
+]

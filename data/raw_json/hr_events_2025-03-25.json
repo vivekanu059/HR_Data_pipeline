@@ -1,0 +1,22 @@
+[
+    {
+        "event_id": "f920264c-0763-4cd0-9f15-c7b67c16128d",
+        "timestamp": "2025-03-25T00:00:00",
+        "emp_id": 67391,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "3d42993c-cc9f-4334-9bdf-0377a14923c2",
+        "timestamp": "2025-03-25T00:00:00",
+        "emp_id": 21465,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "8d03c91e-4f8d-4238-a88b-78b5b5b453ca",
+        "timestamp": "2025-03-25T00:00:00",
+        "emp_id": 19536,
+        "event_type": "PROMOTION",
+        "new_salary": 81033,
+        "new_role": "Engineer"
+    }
+]

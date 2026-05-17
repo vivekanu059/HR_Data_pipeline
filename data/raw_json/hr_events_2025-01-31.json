@@ -1,0 +1,32 @@
+[
+    {
+        "event_id": "d5f25073-f414-42b1-a442-9ebbda7b9095",
+        "timestamp": "2025-01-31T00:00:00",
+        "emp_id": 942,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "bc10fa52-bf5d-4fdf-89c8-d2ab6b44fa8d",
+        "timestamp": "2025-01-31T00:00:00",
+        "emp_id": 67391,
+        "event_type": "PROMOTION",
+        "new_salary": 142052,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "6f92f25e-45df-46b6-b82c-043f7cfc9b79",
+        "timestamp": "2025-01-31T00:00:00",
+        "emp_id": 71582,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 71582,
+            "first_name": "Lauren",
+            "last_name": "Hurst",
+            "department": "Marketing",
+            "role": "Director",
+            "salary": 85377,
+            "hire_date": "2025-01-31",
+            "status": "Active"
+        }
+    }
+]

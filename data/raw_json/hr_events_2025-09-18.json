@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "c24369e7-2387-4af6-94c3-a832b231c60b",
+        "timestamp": "2025-09-18T00:00:00",
+        "emp_id": 55461,
+        "event_type": "PROMOTION",
+        "new_salary": 171789,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "41843b03-04dd-4054-9448-23f7e7e646c7",
+        "timestamp": "2025-09-18T00:00:00",
+        "emp_id": 92476,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 92476,
+            "first_name": "Taylor",
+            "last_name": "Gilbert",
+            "department": "Marketing",
+            "role": "Analyst",
+            "salary": 63447,
+            "hire_date": "2025-09-18",
+            "status": "Active"
+        }
+    }
+]

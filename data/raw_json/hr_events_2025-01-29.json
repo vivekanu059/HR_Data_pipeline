@@ -1,0 +1,31 @@
+[
+    {
+        "event_id": "e7a37e81-63b4-408b-ab8e-869fd5385b0e",
+        "timestamp": "2025-01-29T00:00:00",
+        "emp_id": 21178,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "b20dcb6e-f231-4f17-9586-3a76c51155ff",
+        "timestamp": "2025-01-29T00:00:00",
+        "emp_id": 55333,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "f1578470-0182-47c4-ba1b-58066160a6b4",
+        "timestamp": "2025-01-29T00:00:00",
+        "emp_id": 2560,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 2560,
+            "first_name": "Melissa",
+            "last_name": "Cannon",
+            "department": "Sales",
+            "role": "Analyst",
+            "salary": 51635,
+            "hire_date": "2025-01-29",
+            "status": "Active"
+        }
+    }
+]

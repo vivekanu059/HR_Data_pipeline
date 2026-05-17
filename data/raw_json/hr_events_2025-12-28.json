@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "93e34c35-ef0a-473d-93d2-d56dd0401587",
+        "timestamp": "2025-12-28T00:00:00",
+        "emp_id": 70701,
+        "event_type": "PROMOTION",
+        "new_salary": 145493,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "7781321e-83c5-41cb-bef7-d9ea7f8e5483",
+        "timestamp": "2025-12-28T00:00:00",
+        "emp_id": 94519,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 94519,
+            "first_name": "Larry",
+            "last_name": "Hines",
+            "department": "HR",
+            "role": "Analyst",
+            "salary": 77131,
+            "hire_date": "2025-12-28",
+            "status": "Active"
+        }
+    }
+]

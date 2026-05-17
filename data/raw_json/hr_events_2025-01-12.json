@@ -1,0 +1,32 @@
+[
+    {
+        "event_id": "d9178793-a9d3-42e6-905c-c6869f871ce7",
+        "timestamp": "2025-01-12T00:00:00",
+        "emp_id": 31385,
+        "event_type": "PROMOTION",
+        "new_salary": 138840,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "4ce1eb90-e669-4833-b841-d0a01fe771d6",
+        "timestamp": "2025-01-12T00:00:00",
+        "emp_id": 21299,
+        "event_type": "PROMOTION",
+        "new_salary": 142199,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "688c7015-aab9-4e49-8f2d-479681d2c7de",
+        "timestamp": "2025-01-12T00:00:00",
+        "emp_id": 14371,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Finance"
+    },
+    {
+        "event_id": "4bb00f20-b27c-4026-a703-b6365380b904",
+        "timestamp": "2025-01-12T00:00:00",
+        "emp_id": 75880,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    }
+]

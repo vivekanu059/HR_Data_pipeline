@@ -1,0 +1,23 @@
+[
+    {
+        "event_id": "989d9d4a-e15c-4666-8797-b2c957207246",
+        "timestamp": "2025-02-23T00:00:00",
+        "emp_id": 37353,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "8e485223-46b9-4991-a14e-b70db380c73a",
+        "timestamp": "2025-02-23T00:00:00",
+        "emp_id": 38469,
+        "event_type": "PROMOTION",
+        "new_salary": 99961,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "30e912f2-f2b4-4abf-8441-aefd0299436a",
+        "timestamp": "2025-02-23T00:00:00",
+        "emp_id": 60589,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    }
+]

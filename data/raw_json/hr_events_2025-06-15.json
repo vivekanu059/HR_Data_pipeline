@@ -1,0 +1,16 @@
+[
+    {
+        "event_id": "bac7e2b9-6a7e-4c36-a613-2e6974188109",
+        "timestamp": "2025-06-15T00:00:00",
+        "emp_id": 17927,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "50018b7b-6d40-47f4-9003-2b3518578baf",
+        "timestamp": "2025-06-15T00:00:00",
+        "emp_id": 49441,
+        "event_type": "PROMOTION",
+        "new_salary": 61163,
+        "new_role": "Director"
+    }
+]

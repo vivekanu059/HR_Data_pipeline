@@ -1,0 +1,14 @@
+[
+    {
+        "event_id": "257d5e52-1a51-45ca-bc7c-1d8525cf0041",
+        "timestamp": "2025-07-16T00:00:00",
+        "emp_id": 73563,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "9a36d1ec-2c6a-4e9a-b280-67a14187222b",
+        "timestamp": "2025-07-16T00:00:00",
+        "emp_id": 75631,
+        "event_type": "TERMINATION"
+    }
+]

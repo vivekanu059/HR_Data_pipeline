@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "5f3c44dc-5ef7-47b8-b2e6-195f732e2016",
+        "timestamp": "2025-11-09T00:00:00",
+        "emp_id": 70701,
+        "event_type": "PROMOTION",
+        "new_salary": 132496,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "507b9072-65e5-4f34-9df0-6e8c878aaed9",
+        "timestamp": "2025-11-09T00:00:00",
+        "emp_id": 58188,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 58188,
+            "first_name": "Kathryn",
+            "last_name": "Berry",
+            "department": "HR",
+            "role": "Director",
+            "salary": 123229,
+            "hire_date": "2025-11-09",
+            "status": "Active"
+        }
+    }
+]

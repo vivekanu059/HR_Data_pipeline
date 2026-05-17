@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "b3a7d0e0-cb08-487d-9963-c26d6e218b09",
+        "timestamp": "2025-06-13T00:00:00",
+        "emp_id": 21319,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    },
+    {
+        "event_id": "dd90e79e-b888-46ed-8d24-4e3ec4dabddb",
+        "timestamp": "2025-06-13T00:00:00",
+        "emp_id": 14996,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 14996,
+            "first_name": "Melissa",
+            "last_name": "Curtis",
+            "department": "Marketing",
+            "role": "Manager",
+            "salary": 112117,
+            "hire_date": "2025-06-13",
+            "status": "Active"
+        }
+    }
+]

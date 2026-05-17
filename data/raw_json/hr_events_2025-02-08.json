@@ -1,0 +1,41 @@
+[
+    {
+        "event_id": "0a4e5b70-a6d9-44a3-b510-ab53c7fee39f",
+        "timestamp": "2025-02-08T00:00:00",
+        "emp_id": 29871,
+        "event_type": "PROMOTION",
+        "new_salary": 85200,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "3f4df561-f319-4125-87f1-94f9c1156d6d",
+        "timestamp": "2025-02-08T00:00:00",
+        "emp_id": 13238,
+        "event_type": "PROMOTION",
+        "new_salary": 109896,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "9f0fda8d-0537-4ff6-96d7-b3b833094d35",
+        "timestamp": "2025-02-08T00:00:00",
+        "emp_id": 7685,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Finance"
+    },
+    {
+        "event_id": "37cc863b-f2a0-4459-9060-4f621d48a071",
+        "timestamp": "2025-02-08T00:00:00",
+        "emp_id": 19973,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 19973,
+            "first_name": "John",
+            "last_name": "Wells",
+            "department": "Sales",
+            "role": "Analyst",
+            "salary": 81172,
+            "hire_date": "2025-02-08",
+            "status": "Active"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "event_id": "5a4153b3-e95f-476c-9eba-c186ba108217",
+        "timestamp": "2025-11-03T00:00:00",
+        "emp_id": 79131,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "46494296-6f58-42c3-bf86-cc319d66e815",
+        "timestamp": "2025-11-03T00:00:00",
+        "emp_id": 92476,
+        "event_type": "PROMOTION",
+        "new_salary": 81769,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "67fd64c4-a334-458a-abd2-b5121335e5db",
+        "timestamp": "2025-11-03T00:00:00",
+        "emp_id": 83816,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 83816,
+            "first_name": "Tina",
+            "last_name": "Gould",
+            "department": "Marketing",
+            "role": "Analyst",
+            "salary": 50745,
+            "hire_date": "2025-11-03",
+            "status": "Active"
+        }
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "64de82e6-e82c-4d7b-86e7-45f988bc539c",
+        "timestamp": "2025-02-03T00:00:00",
+        "emp_id": 41441,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    },
+    {
+        "event_id": "dde9f863-22bd-4388-adb9-9102a48b3dbe",
+        "timestamp": "2025-02-03T00:00:00",
+        "emp_id": 77580,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 77580,
+            "first_name": "Anne",
+            "last_name": "Johnson",
+            "department": "Marketing",
+            "role": "Manager",
+            "salary": 113784,
+            "hire_date": "2025-02-03",
+            "status": "Active"
+        }
+    }
+]

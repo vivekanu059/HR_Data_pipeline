@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "a0017720-200b-4903-8642-6c458d03f17a",
+        "timestamp": "2025-12-09T00:00:00",
+        "emp_id": 92124,
+        "event_type": "PROMOTION",
+        "new_salary": 91363,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "f10d27c8-9780-4215-ab2b-b8e9a417c093",
+        "timestamp": "2025-12-09T00:00:00",
+        "emp_id": 39691,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 39691,
+            "first_name": "Christina",
+            "last_name": "Davis",
+            "department": "Engineering",
+            "role": "Director",
+            "salary": 133913,
+            "hire_date": "2025-12-09",
+            "status": "Active"
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "event_id": "ff233d5f-6ced-415d-9800-7c0287ea7ff5",
+        "timestamp": "2025-02-28T00:00:00",
+        "emp_id": 35697,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "5a104129-54ae-4d1b-8ce6-424dbef59fe6",
+        "timestamp": "2025-02-28T00:00:00",
+        "emp_id": 14371,
+        "event_type": "PROMOTION",
+        "new_salary": 101752,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "314d3441-b8a6-471f-9ee3-4dc43b048a8b",
+        "timestamp": "2025-02-28T00:00:00",
+        "emp_id": 92124,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 92124,
+            "first_name": "Shawn",
+            "last_name": "Parker",
+            "department": "Finance",
+            "role": "Director",
+            "salary": 84559,
+            "hire_date": "2025-02-28",
+            "status": "Active"
+        }
+    }
+]

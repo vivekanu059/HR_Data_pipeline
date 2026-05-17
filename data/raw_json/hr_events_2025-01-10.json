@@ -1,0 +1,15 @@
+[
+    {
+        "event_id": "82ec9f2d-fbf6-416f-9b30-80d56fb78271",
+        "timestamp": "2025-01-10T00:00:00",
+        "emp_id": 52772,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "939b462d-e645-4129-a29c-2ae31d9af659",
+        "timestamp": "2025-01-10T00:00:00",
+        "emp_id": 59177,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    }
+]

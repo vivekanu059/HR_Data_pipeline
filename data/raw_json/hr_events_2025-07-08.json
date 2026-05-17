@@ -1,0 +1,20 @@
+[
+    {
+        "event_id": "6fac1673-0ad4-4230-bdf6-6ba5dc9c96de",
+        "timestamp": "2025-07-08T00:00:00",
+        "emp_id": 94098,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "13eecdc6-ebd1-4d2c-b5b2-745504cc3ede",
+        "timestamp": "2025-07-08T00:00:00",
+        "emp_id": 59177,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "6de59332-9364-43d0-9024-bdc6dcb33df3",
+        "timestamp": "2025-07-08T00:00:00",
+        "emp_id": 64032,
+        "event_type": "TERMINATION"
+    }
+]

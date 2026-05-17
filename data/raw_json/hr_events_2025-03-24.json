@@ -1,0 +1,55 @@
+[
+    {
+        "event_id": "a85c6e4a-004b-4fab-bcf5-6188d32e6dcd",
+        "timestamp": "2025-03-24T00:00:00",
+        "emp_id": 19973,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "69ca97d2-7644-44fd-8ae7-69edde8ede0b",
+        "timestamp": "2025-03-24T00:00:00",
+        "emp_id": 30021,
+        "event_type": "PROMOTION",
+        "new_salary": 161467,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "5c9d927d-84b8-41bb-b005-68d20de051a6",
+        "timestamp": "2025-03-24T00:00:00",
+        "emp_id": 56155,
+        "event_type": "PROMOTION",
+        "new_salary": 120634,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "a01ac992-7f9d-4e64-81a6-423b9f64eeed",
+        "timestamp": "2025-03-24T00:00:00",
+        "emp_id": 89166,
+        "event_type": "PROMOTION",
+        "new_salary": 90351,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "341c6494-0d36-4dfc-828e-bd7071299889",
+        "timestamp": "2025-03-24T00:00:00",
+        "emp_id": 75525,
+        "event_type": "PROMOTION",
+        "new_salary": 105178,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "ed7bf656-218a-4536-8c99-a894445dcc38",
+        "timestamp": "2025-03-24T00:00:00",
+        "emp_id": 55519,
+        "event_type": "PROMOTION",
+        "new_salary": 67584,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "b2c08394-e17f-49e1-b028-604649bc473f",
+        "timestamp": "2025-03-24T00:00:00",
+        "emp_id": 75631,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    }
+]

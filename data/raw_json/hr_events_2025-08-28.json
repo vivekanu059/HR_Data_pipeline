@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "700b5d5f-b89f-42f3-aa60-c652e7147668",
+        "timestamp": "2025-08-28T00:00:00",
+        "emp_id": 62493,
+        "event_type": "PROMOTION",
+        "new_salary": 175389,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "ad261ec5-5d42-49e9-a92e-07b60b2f6d5c",
+        "timestamp": "2025-08-28T00:00:00",
+        "emp_id": 7455,
+        "event_type": "PROMOTION",
+        "new_salary": 103877,
+        "new_role": "Director"
+    }
+]

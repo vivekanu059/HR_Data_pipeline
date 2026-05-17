@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "73b0a091-7634-4169-8f76-e38812fe28bf",
+        "timestamp": "2025-07-28T00:00:00",
+        "emp_id": 36002,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 36002,
+            "first_name": "Brittany",
+            "last_name": "Bell",
+            "department": "Engineering",
+            "role": "Analyst",
+            "salary": 98696,
+            "hire_date": "2025-07-28",
+            "status": "Active"
+        }
+    }
+]

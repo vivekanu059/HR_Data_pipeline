@@ -1,0 +1,17 @@
+[
+    {
+        "event_id": "892e6161-be2d-440a-9e9b-23bc50c7c006",
+        "timestamp": "2025-03-01T00:00:00",
+        "emp_id": 86163,
+        "event_type": "PROMOTION",
+        "new_salary": 163154,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "2f65fafa-b0ae-4f08-831e-dbbcf36cb62b",
+        "timestamp": "2025-03-01T00:00:00",
+        "emp_id": 88039,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    }
+]

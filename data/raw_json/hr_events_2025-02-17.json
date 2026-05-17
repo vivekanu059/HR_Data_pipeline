@@ -1,0 +1,44 @@
+[
+    {
+        "event_id": "a5c5650c-8186-4576-91a7-26095eddbbbf",
+        "timestamp": "2025-02-17T00:00:00",
+        "emp_id": 18131,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "6b88f83d-d97d-49cd-833d-2bce575aed2c",
+        "timestamp": "2025-02-17T00:00:00",
+        "emp_id": 81351,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "6efb63b1-1b04-4863-bd7d-dbedd284476c",
+        "timestamp": "2025-02-17T00:00:00",
+        "emp_id": 83810,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "HR"
+    },
+    {
+        "event_id": "e43e4288-a2b5-4498-9cb8-5aedf5f62c97",
+        "timestamp": "2025-02-17T00:00:00",
+        "emp_id": 56155,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Engineering"
+    },
+    {
+        "event_id": "a6846099-f729-4951-8591-31d2bbda0242",
+        "timestamp": "2025-02-17T00:00:00",
+        "emp_id": 60258,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 60258,
+            "first_name": "Jasmine",
+            "last_name": "Graham",
+            "department": "Sales",
+            "role": "Director",
+            "salary": 100407,
+            "hire_date": "2025-02-17",
+            "status": "Active"
+        }
+    }
+]

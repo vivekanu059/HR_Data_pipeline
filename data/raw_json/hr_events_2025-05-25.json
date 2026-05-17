@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "fa53e34d-e6d5-401d-8b62-1d415e09a9ee",
+        "timestamp": "2025-05-25T00:00:00",
+        "emp_id": 72420,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "f2f25eef-1f45-4bfd-b7dc-67e030974b2b",
+        "timestamp": "2025-05-25T00:00:00",
+        "emp_id": 84518,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 84518,
+            "first_name": "Michael",
+            "last_name": "Sanders",
+            "department": "Marketing",
+            "role": "Manager",
+            "salary": 67370,
+            "hire_date": "2025-05-25",
+            "status": "Active"
+        }
+    }
+]

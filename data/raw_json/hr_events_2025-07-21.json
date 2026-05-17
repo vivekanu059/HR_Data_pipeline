@@ -1,0 +1,9 @@
+[
+    {
+        "event_id": "52bdc661-9fe0-48c7-bc8d-5b93a2a2e91f",
+        "timestamp": "2025-07-21T00:00:00",
+        "emp_id": 92124,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    }
+]

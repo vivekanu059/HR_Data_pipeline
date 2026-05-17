@@ -1,0 +1,33 @@
+[
+    {
+        "event_id": "7e8f8095-624c-49b6-b244-45a7b7e58481",
+        "timestamp": "2025-01-21T00:00:00",
+        "emp_id": 64032,
+        "event_type": "PROMOTION",
+        "new_salary": 81727,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "a7f36ae9-25c7-4c44-be75-c3b4664fa663",
+        "timestamp": "2025-01-21T00:00:00",
+        "emp_id": 30021,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    },
+    {
+        "event_id": "c7468f59-1b49-4e15-a2ad-d909c521bf2d",
+        "timestamp": "2025-01-21T00:00:00",
+        "emp_id": 90128,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 90128,
+            "first_name": "Adam",
+            "last_name": "Potter",
+            "department": "Engineering",
+            "role": "Analyst",
+            "salary": 93628,
+            "hire_date": "2025-01-21",
+            "status": "Active"
+        }
+    }
+]

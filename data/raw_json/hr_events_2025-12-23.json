@@ -1,0 +1,24 @@
+[
+    {
+        "event_id": "dc5be7d1-fcef-4972-bbf4-83ce51beb80e",
+        "timestamp": "2025-12-23T00:00:00",
+        "emp_id": 56155,
+        "event_type": "PROMOTION",
+        "new_salary": 183589,
+        "new_role": "Manager"
+    },
+    {
+        "event_id": "2179e3f0-6612-4ab4-b9b2-1e6e586a346a",
+        "timestamp": "2025-12-23T00:00:00",
+        "emp_id": 99943,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "8fc85fc0-83d5-4ceb-9edb-b8eec2baf0e0",
+        "timestamp": "2025-12-23T00:00:00",
+        "emp_id": 55461,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    }
+]

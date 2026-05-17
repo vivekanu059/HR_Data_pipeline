@@ -1,0 +1,15 @@
+[
+    {
+        "event_id": "42999aa4-0cdf-442b-ae85-cb217631de9d",
+        "timestamp": "2025-02-04T00:00:00",
+        "emp_id": 86951,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "74672cd9-362f-4e5c-93cd-6268610cf373",
+        "timestamp": "2025-02-04T00:00:00",
+        "emp_id": 12224,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    }
+]

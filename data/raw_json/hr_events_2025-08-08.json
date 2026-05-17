@@ -1,0 +1,30 @@
+[
+    {
+        "event_id": "7010ed13-b526-422d-bf6c-21f70a0537f0",
+        "timestamp": "2025-08-08T00:00:00",
+        "emp_id": 75880,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "85d2d0a6-8629-4b5d-b07d-f251fdb1429e",
+        "timestamp": "2025-08-08T00:00:00",
+        "emp_id": 20036,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "c6435300-68a5-4c68-a32d-bb5e486bb6bf",
+        "timestamp": "2025-08-08T00:00:00",
+        "emp_id": 79928,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 79928,
+            "first_name": "Erik",
+            "last_name": "Watson",
+            "department": "Sales",
+            "role": "Analyst",
+            "salary": 63268,
+            "hire_date": "2025-08-08",
+            "status": "Active"
+        }
+    }
+]

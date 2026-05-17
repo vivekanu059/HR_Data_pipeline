@@ -1,0 +1,30 @@
+[
+    {
+        "event_id": "39681c81-7b70-43b8-a81f-dec3279c658a",
+        "timestamp": "2025-06-21T00:00:00",
+        "emp_id": 74,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "d86a6460-59a1-420e-9bb4-3332d8e7012f",
+        "timestamp": "2025-06-21T00:00:00",
+        "emp_id": 58082,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "c33a1f6c-1d69-4fba-9e18-7b248e676a01",
+        "timestamp": "2025-06-21T00:00:00",
+        "emp_id": 29871,
+        "event_type": "PROMOTION",
+        "new_salary": 108754,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "cea60f4c-39e5-4ff0-92f8-37d447503f1d",
+        "timestamp": "2025-06-21T00:00:00",
+        "emp_id": 64032,
+        "event_type": "PROMOTION",
+        "new_salary": 117388,
+        "new_role": "Director"
+    }
+]

@@ -1,0 +1,25 @@
+[
+    {
+        "event_id": "8b1e3b9d-c34b-4fbb-8d4a-75b8551ac8ea",
+        "timestamp": "2025-04-07T00:00:00",
+        "emp_id": 39651,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    },
+    {
+        "event_id": "3d225c30-b28f-41de-bb14-0bc3304b8590",
+        "timestamp": "2025-04-07T00:00:00",
+        "emp_id": 49441,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 49441,
+            "first_name": "Stanley",
+            "last_name": "Morris",
+            "department": "HR",
+            "role": "Director",
+            "salary": 55694,
+            "hire_date": "2025-04-07",
+            "status": "Active"
+        }
+    }
+]

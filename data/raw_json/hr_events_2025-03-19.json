@@ -1,0 +1,32 @@
+[
+    {
+        "event_id": "ac9ed156-f63f-4e41-ba9a-ca5e176132ed",
+        "timestamp": "2025-03-19T00:00:00",
+        "emp_id": 90128,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "964db03f-9340-4fad-9c4a-d56bd6016237",
+        "timestamp": "2025-03-19T00:00:00",
+        "emp_id": 77580,
+        "event_type": "PROMOTION",
+        "new_salary": 126465,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "c35b1c8c-0a4c-4f7f-9384-ec2b44feacae",
+        "timestamp": "2025-03-19T00:00:00",
+        "emp_id": 2719,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 2719,
+            "first_name": "Yvonne",
+            "last_name": "Chambers",
+            "department": "Marketing",
+            "role": "Engineer",
+            "salary": 52502,
+            "hire_date": "2025-03-19",
+            "status": "Active"
+        }
+    }
+]

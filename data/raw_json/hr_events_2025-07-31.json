@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "dd3f7d7e-a508-4c95-93a4-a492497de16d",
+        "timestamp": "2025-07-31T00:00:00",
+        "emp_id": 55333,
+        "event_type": "PROMOTION",
+        "new_salary": 157924,
+        "new_role": "Analyst"
+    },
+    {
+        "event_id": "9d713084-171d-4bf9-9af4-81a7fa34d2e8",
+        "timestamp": "2025-07-31T00:00:00",
+        "emp_id": 38469,
+        "event_type": "PROMOTION",
+        "new_salary": 123179,
+        "new_role": "Analyst"
+    }
+]

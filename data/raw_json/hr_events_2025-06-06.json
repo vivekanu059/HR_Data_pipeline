@@ -1,0 +1,24 @@
+[
+    {
+        "event_id": "97fa7f04-8363-4007-9cae-9610c72c1fe3",
+        "timestamp": "2025-06-06T00:00:00",
+        "emp_id": 98419,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "c8819065-ba2c-48ce-8b19-f88e9d77a45e",
+        "timestamp": "2025-06-06T00:00:00",
+        "emp_id": 14293,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 14293,
+            "first_name": "Shannon",
+            "last_name": "Walker",
+            "department": "Finance",
+            "role": "Engineer",
+            "salary": 105531,
+            "hire_date": "2025-06-06",
+            "status": "Active"
+        }
+    }
+]

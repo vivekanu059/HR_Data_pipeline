@@ -1,0 +1,16 @@
+[
+    {
+        "event_id": "9e9a9f83-0668-43ee-b8b2-b5493bdbc09e",
+        "timestamp": "2025-05-17T00:00:00",
+        "emp_id": 99458,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "53f8382b-8fb8-44e4-b173-8856e25d36eb",
+        "timestamp": "2025-05-17T00:00:00",
+        "emp_id": 62493,
+        "event_type": "PROMOTION",
+        "new_salary": 155870,
+        "new_role": "Analyst"
+    }
+]

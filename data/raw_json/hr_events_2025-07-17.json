@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "a0c14035-c5d9-4f51-b387-e1bd2d5972c6",
+        "timestamp": "2025-07-17T00:00:00",
+        "emp_id": 20036,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 20036,
+            "first_name": "Kathleen",
+            "last_name": "Rios",
+            "department": "Finance",
+            "role": "Analyst",
+            "salary": 93719,
+            "hire_date": "2025-07-17",
+            "status": "Active"
+        }
+    }
+]

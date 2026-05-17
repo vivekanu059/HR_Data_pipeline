@@ -1,0 +1,31 @@
+[
+    {
+        "event_id": "f79efd70-65bc-4272-badd-7ea3aca5e2fd",
+        "timestamp": "2025-05-15T00:00:00",
+        "emp_id": 7685,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "5da36f1b-8eac-4a33-8df9-74a7d882b5c1",
+        "timestamp": "2025-05-15T00:00:00",
+        "emp_id": 59177,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    },
+    {
+        "event_id": "5e5ba13d-746c-4b77-9fa3-82e8895ccd99",
+        "timestamp": "2025-05-15T00:00:00",
+        "emp_id": 11836,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 11836,
+            "first_name": "Krystal",
+            "last_name": "Smith",
+            "department": "Sales",
+            "role": "Engineer",
+            "salary": 68284,
+            "hire_date": "2025-05-15",
+            "status": "Active"
+        }
+    }
+]

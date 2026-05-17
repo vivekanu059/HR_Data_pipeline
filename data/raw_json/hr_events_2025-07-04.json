@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "ab05347f-d556-437d-8f08-81ee8011316b",
+        "timestamp": "2025-07-04T00:00:00",
+        "emp_id": 16932,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 16932,
+            "first_name": "Omar",
+            "last_name": "Padilla",
+            "department": "Engineering",
+            "role": "Analyst",
+            "salary": 98506,
+            "hire_date": "2025-07-04",
+            "status": "Active"
+        }
+    }
+]

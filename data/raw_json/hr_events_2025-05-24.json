@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "379efc6e-5edb-4d3c-b0b6-3bcf08601833",
+        "timestamp": "2025-05-24T00:00:00",
+        "emp_id": 72420,
+        "event_type": "PROMOTION",
+        "new_salary": 103021,
+        "new_role": "Engineer"
+    },
+    {
+        "event_id": "af88bdec-fb1e-443b-996f-4dfa5cd8fe1a",
+        "timestamp": "2025-05-24T00:00:00",
+        "emp_id": 58115,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 58115,
+            "first_name": "Sean",
+            "last_name": "Young",
+            "department": "Engineering",
+            "role": "Manager",
+            "salary": 94002,
+            "hire_date": "2025-05-24",
+            "status": "Active"
+        }
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "event_id": "c9d6a63b-ca3c-4f5f-9bb5-c40c03cde2e3",
+        "timestamp": "2025-06-04T00:00:00",
+        "emp_id": 91988,
+        "event_type": "TERMINATION"
+    },
+    {
+        "event_id": "040a3aae-52e2-4fd9-96bf-10ab3ce915e7",
+        "timestamp": "2025-06-04T00:00:00",
+        "emp_id": 56155,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    },
+    {
+        "event_id": "20733f6d-0d6a-45b3-83ef-20162c9b662e",
+        "timestamp": "2025-06-04T00:00:00",
+        "emp_id": 47576,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Sales"
+    },
+    {
+        "event_id": "1d181ee9-86ad-4a8c-abc4-123ebde13c1b",
+        "timestamp": "2025-06-04T00:00:00",
+        "emp_id": 88259,
+        "event_type": "DEPARTMENT_TRANSFER",
+        "new_department": "Marketing"
+    }
+]

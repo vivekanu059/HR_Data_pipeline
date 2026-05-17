@@ -1,0 +1,26 @@
+[
+    {
+        "event_id": "059dd55d-4b94-4e30-b303-f438fe2110d0",
+        "timestamp": "2025-05-02T00:00:00",
+        "emp_id": 29256,
+        "event_type": "PROMOTION",
+        "new_salary": 110064,
+        "new_role": "Director"
+    },
+    {
+        "event_id": "bea29dfe-c73f-4e1b-af90-8e3cdd750e98",
+        "timestamp": "2025-05-02T00:00:00",
+        "emp_id": 86275,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 86275,
+            "first_name": "Randy",
+            "last_name": "Smith",
+            "department": "HR",
+            "role": "Director",
+            "salary": 88799,
+            "hire_date": "2025-05-02",
+            "status": "Active"
+        }
+    }
+]

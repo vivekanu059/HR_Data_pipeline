@@ -1,0 +1,18 @@
+[
+    {
+        "event_id": "a4540937-4a27-4bf2-8baa-f744a08dd21b",
+        "timestamp": "2025-12-17T00:00:00",
+        "emp_id": 81016,
+        "event_type": "HIRE",
+        "details": {
+            "emp_id": 81016,
+            "first_name": "Danielle",
+            "last_name": "Jimenez",
+            "department": "HR",
+            "role": "Engineer",
+            "salary": 50976,
+            "hire_date": "2025-12-17",
+            "status": "Active"
+        }
+    }
+]
